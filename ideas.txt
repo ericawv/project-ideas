@@ -1,0 +1,33 @@
+Capstone Project Plan Ideas
+
+Top 2 Picks:
+
+1. Hyundai: https://www.hyundaiusa.com/us/en
+a. Main Features:
+i. Test navigating to the home page
+ii. Test accessing the main menu from the home page
+iii. Test the functionality of the Vehicles link/page
+iv. Test The functionality of the Inventory link/page
+v. Test the functionality of the HeyHyundai feature 
+
+2. Universal: https://www.universalorlando.com/web/en/us
+a. Main Features:
+i. Test navigating to the landing page
+ii. Test accessing the main menu from the home page
+iii. Test the functionality of the Park Tickets link/page
+iv. Test the functionality of the Express Passes link/page
+v. Test the functionality of Deals and Specials link/page
+vi. Test the functionality of the Annual Passes link/page
+vii. Test the functionality of the Shopping Chart
+
+Remaining testing options:
+
+3. Henry Ford Health System: https://www.henryford.com/
+4. The Federal Group: https://www.tfgusa.com/
+5. Ford: https://www.ford.com/
+6. Cargill: https://www.cargill.com/
+7. PGA Tour: https://www.pgatour.com/
+8. Meijer: https://www.meijer.com/
+9. Joy Tunes: https://www.joytunes.com/
+10. Puma: https://us.puma.com/us/en/home
+
